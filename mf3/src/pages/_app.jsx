@@ -1,4 +1,5 @@
 import dynamic from "next/dynamic";
+import "@/app/globals.css";
 
 const Header = dynamic(() => import("mf1/Header"));
 const Footer = dynamic(() => import("mf1/Footer"));
