@@ -1,0 +1,3 @@
+$font-loc: '/static/fonts/';
+@import "~@jds/core/dist/styles/main";
+@include createDefaultTheme();
